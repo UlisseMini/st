@@ -1,4 +1,5 @@
 # Luke's build of st - the simple (suckless) terminal
+# Modified by Me :')
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features:
 
@@ -27,8 +28,7 @@ The following additional bindings were added before I forked this:
 ## Installation for newbs
 
 ```
-make
-sudo make install
+make && sudo make install
 ```
 
 Obviously, `make` is required to build. `fontconfig` is required for the
@@ -70,6 +70,9 @@ windows, but new windows will continue with the previously defined
 transparency.
 
 ## Contact
+-- Ulisse.mini@gmail.com
+-- peep#4334 (discord)
 
+-- Bother luke at
 - Luke Smith <luke@lukesmith.xyz>
 - [https://lukesmith.xyz](https://lukesmith.xyz)
